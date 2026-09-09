@@ -12,9 +12,13 @@ Instead of giving only a simple **SCAM / NOT SCAM** result, TrustLens analyzes m
 
 ## 👨‍💻 Developer
 
-**Vignesh G**  
-B.Tech Information Technology  
-**Individual Project**
+| Project Name | **TrustLens** |
+| Project Type | **Individual Project** |
+| Developer | **Vignesh G** |
+| Domain | **AI + Cybersecurity** |
+| Target Users | **Students and Job Seekers** |
+| Platform | **Web Application** |
+| Primary Goal | **Job & Internship Opportunity Verification** |
 
 ---
 
@@ -496,16 +500,6 @@ Any interviews, observations, user feedback, screenshots, or evaluation results 
 ---
 
 ## 📌 Project Summary
-
-| Item | Details |
-|---|---|
-| Project Name | **TrustLens** |
-| Project Type | **Individual Project** |
-| Developer | **Vignesh G** |
-| Domain | **AI + Cybersecurity** |
-| Target Users | **Students and Job Seekers** |
-| Platform | **Web Application** |
-| Primary Goal | **Job & Internship Opportunity Verification** |
 
 ---
 
